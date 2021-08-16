@@ -30,7 +30,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/todo_app/blob/main/public/Screen%20Shot.png)
+![Sample image](https://github.com/wemiibidun/todo_app2/blob/main/public/Screen%20Shot.png)
 
 ## Technologies (Language, Library and Framework)
 * React
