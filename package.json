@@ -2,7 +2,7 @@
   "name": "todov2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://wemiibidun.github.io/todo_app2",
+  "homepage": "https://wemiibidun.github.io/todo_app2/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
