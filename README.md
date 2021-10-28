@@ -3,13 +3,14 @@
 
 
 # Todo App 2.0
-Built another todo app with react to showcase my react skills
+Built another todo app with react to showcase my react skills. A user is able to add items to the app, update items added and also delete items.
 
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
-* [Features](#features)
+* [Features](#features)[Link to Published Portfolio](#link-to-published-portfolio)
+* [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -46,6 +47,13 @@ The GUI of this project allows users to:
 * Add a task to a to do list
 * Edit the task on the to do list
 * Delete the task on the to do list
+
+
+
+## Link to Published Portfolio
+
+[Link to my published Portfolio Page](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
+
 
 ## Status
 Project is: _Complete_
