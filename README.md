@@ -38,7 +38,7 @@ You will also see any lint errors in the console.
 
 ## Technologies (Language, Library and Framework)
 * React
-* HTML
+* JSX
 * CSS
 
 ## Features
