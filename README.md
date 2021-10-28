@@ -1,5 +1,9 @@
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/todo_app2)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/todo_app2)
+
+
 # Todo App 2.0
-This is a another todo app, that was created with react
+Built another todo app with react to showcase my react skills
 
 ## Table of contents
 * [Introduction](#introduction)
