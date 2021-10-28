@@ -52,7 +52,7 @@ The GUI of this project allows users to:
 
 ## Link to Published Portfolio
 
-[Link to my published Portfolio Page](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
+[Link to my published Todo App Webpage](https://wemiibidun.github.io/todo_app2/)
 
 
 ## Status
